@@ -1,0 +1,15 @@
+app\weather\home\entity\LocationInfo$LocationInfoBuilder.class
+app\weather\home\entity\DailyWeatherInfo$1.class
+app\weather\home\entity\BasicWeatherInfoEntity$1.class
+app\weather\home\entity\LocationInfo$1.class
+app\weather\home\entity\HourlyWeatherInfo$HourlyWeatherInfoBuilder.class
+app\weather\home\entity\BaseEntity$BaseEntityBuilderImpl.class
+app\weather\home\entity\HourlyWeatherInfo$HourlyWeatherInfoBuilderImpl.class
+app\weather\home\entity\DailyWeatherInfo$DailyWeatherInfoBuilderImpl.class
+app\weather\home\entity\BaseEntity$BaseEntityBuilder.class
+app\weather\home\entity\BaseEntity$1.class
+app\weather\home\entity\BasicWeatherInfoEntity$BasicWeatherInfoEntityBuilderImpl.class
+app\weather\home\entity\HourlyWeatherInfo$1.class
+app\weather\home\entity\DailyWeatherInfo$DailyWeatherInfoBuilder.class
+app\weather\home\entity\LocationInfo$LocationInfoBuilderImpl.class
+app\weather\home\entity\BasicWeatherInfoEntity$BasicWeatherInfoEntityBuilder.class
